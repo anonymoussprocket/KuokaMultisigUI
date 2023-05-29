@@ -6,7 +6,7 @@ const Header = () => {
   return (
     <div className={classes.header}>
       <div className={classes.container}>
-        <h1 className={classes.title}>MultiSig UI</h1>
+        <h1 className={classes.title}>Tezos Africa MultiSig UI</h1>
         <div className={classes.menu}>
           <Link to="/create" className={classes.menuItem}>Create</Link>
           <Link to="/submit" className={classes.menuItem}>Submit</Link>
