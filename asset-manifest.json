@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/KuokaMultisigUI/static/css/main.a617e044.chunk.css",
-    "main.js": "/KuokaMultisigUI/static/js/main.e4dc0909.chunk.js",
-    "main.js.map": "/KuokaMultisigUI/static/js/main.e4dc0909.chunk.js.map",
+    "main.js": "/KuokaMultisigUI/static/js/main.6aecfc5d.chunk.js",
+    "main.js.map": "/KuokaMultisigUI/static/js/main.6aecfc5d.chunk.js.map",
     "runtime-main.js": "/KuokaMultisigUI/static/js/runtime-main.40d2b64f.js",
     "runtime-main.js.map": "/KuokaMultisigUI/static/js/runtime-main.40d2b64f.js.map",
     "static/js/2.319f03da.chunk.js": "/KuokaMultisigUI/static/js/2.319f03da.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.40d2b64f.js",
     "static/js/2.319f03da.chunk.js",
     "static/css/main.a617e044.chunk.css",
-    "static/js/main.e4dc0909.chunk.js"
+    "static/js/main.6aecfc5d.chunk.js"
   ]
 }
