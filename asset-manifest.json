@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/KuokaMultisigUI/static/css/main.a617e044.chunk.css",
-    "main.js": "/KuokaMultisigUI/static/js/main.6aecfc5d.chunk.js",
-    "main.js.map": "/KuokaMultisigUI/static/js/main.6aecfc5d.chunk.js.map",
-    "runtime-main.js": "/KuokaMultisigUI/static/js/runtime-main.40d2b64f.js",
-    "runtime-main.js.map": "/KuokaMultisigUI/static/js/runtime-main.40d2b64f.js.map",
-    "static/js/2.319f03da.chunk.js": "/KuokaMultisigUI/static/js/2.319f03da.chunk.js",
-    "static/js/2.319f03da.chunk.js.map": "/KuokaMultisigUI/static/js/2.319f03da.chunk.js.map",
-    "static/js/3.f95eaf2b.chunk.js": "/KuokaMultisigUI/static/js/3.f95eaf2b.chunk.js",
-    "static/js/3.f95eaf2b.chunk.js.map": "/KuokaMultisigUI/static/js/3.f95eaf2b.chunk.js.map",
-    "index.html": "/KuokaMultisigUI/index.html",
-    "static/css/main.a617e044.chunk.css.map": "/KuokaMultisigUI/static/css/main.a617e044.chunk.css.map",
-    "static/js/2.319f03da.chunk.js.LICENSE.txt": "/KuokaMultisigUI/static/js/2.319f03da.chunk.js.LICENSE.txt"
+    "main.css": "/TezosAfricaUI/static/css/main.a617e044.chunk.css",
+    "main.js": "/TezosAfricaUI/static/js/main.6aecfc5d.chunk.js",
+    "main.js.map": "/TezosAfricaUI/static/js/main.6aecfc5d.chunk.js.map",
+    "runtime-main.js": "/TezosAfricaUI/static/js/runtime-main.85c7559f.js",
+    "runtime-main.js.map": "/TezosAfricaUI/static/js/runtime-main.85c7559f.js.map",
+    "static/js/2.319f03da.chunk.js": "/TezosAfricaUI/static/js/2.319f03da.chunk.js",
+    "static/js/2.319f03da.chunk.js.map": "/TezosAfricaUI/static/js/2.319f03da.chunk.js.map",
+    "static/js/3.f95eaf2b.chunk.js": "/TezosAfricaUI/static/js/3.f95eaf2b.chunk.js",
+    "static/js/3.f95eaf2b.chunk.js.map": "/TezosAfricaUI/static/js/3.f95eaf2b.chunk.js.map",
+    "index.html": "/TezosAfricaUI/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/TezosAfricaUI/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.319f03da.chunk.js.LICENSE.txt": "/TezosAfricaUI/static/js/2.319f03da.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.40d2b64f.js",
+    "static/js/runtime-main.85c7559f.js",
     "static/js/2.319f03da.chunk.js",
     "static/css/main.a617e044.chunk.css",
     "static/js/main.6aecfc5d.chunk.js"
